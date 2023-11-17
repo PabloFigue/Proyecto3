@@ -1,0 +1,1 @@
+El Código que se cargó en cada TIVA C consistió prácticamente en lo mismo, la única variación fue el valor que manda cada tiva al ESP32 por la comunicación UART. Por lo que parecen que son lo mismo.
